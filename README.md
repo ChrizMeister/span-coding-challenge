@@ -3,7 +3,12 @@
 
 ## About
 A project focusing on interacting with/modifying examples of push notifications for a Span system.
+
 This project is written in Python 3.9.0.
+
+Part 1 of the project involved converting notifications in `.json` format from a legacy format to a new 2.0 format.
+Part 2 of the project involved removing duplicate notifications (in the new 2.0 format) based on select criteria.
+Part 3 of the project inolved sorting a list of new format notifications based on select criteria.
 
 ## Code structure
 The bulk of the code for the functionality of the project is contained within the `src` folder in the `NotificationModFunctions.py` file. This file contains all of the functions necessary for the three parts of the challenge. The rest of the `.py` files in the `src` folder import functions from the `NotificationModFunctions.py` file in order to solve each part of the coding challenge.
