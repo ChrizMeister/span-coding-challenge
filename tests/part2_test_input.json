@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": 1616533456618,
+    "priority": 2,
+    "body": "Lorem ipsum",
+    "title": "Title",
+    "deduplication_id": "6da9d3e3ec6c0236dcc3b1aa08bdaabb"
+  },
+  {
+    "timestamp": 1616018528302,
+    "priority": 2,
+    "body": "Lorem ipsum",
+    "title": "Title",
+    "deduplication_id": "6da9d3e3ec6c0236dcc3b1aa08bdaabb"
+  },
+  {
+    "timestamp": 1616462416915,
+    "priority": 0,
+    "body": "Lorem ipsum",
+    "title": "Title",
+    "deduplication_id": "6da9d3e3ec6c0236dcc3b1aa08bdaabb"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": 1616533456618,
+    "priority": 2,
+    "body": "High priority. Tied for earliest timestamp. Should be second",
+    "title": "Title",
+    "deduplication_id": "6da9d3e3ec6c0236dcc3b1aa08bdaabb"
+  },
+  {
+    "timestamp": 1616533456618,
+    "priority": 1,
+    "body": "Middle priority. Tied for earliest timestamp. Should be third",
+    "title": "Title",
+    "deduplication_id": "30e5394d028435f812e03f221658f62f"
+  },
+  {
+    "timestamp": 1616462416915,
+    "priority": 0,
+    "body": "Low priority. Most recent timestamp. Should be first",
+    "title": "Title",
+    "deduplication_id": "52f9eed02c4353197398d1c9db539c5e"
+  }
+]
