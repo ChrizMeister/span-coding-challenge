@@ -3,6 +3,7 @@
 
 ## About
 A project focusing on interacting with/modifying examples of push notifications for a Span system.
+
 This project is written in Python 3.9.0.
 
 ## Code structure
